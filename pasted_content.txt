@@ -1,0 +1,814 @@
+OIR Dashboard Application - Comprehensive Feature List
+
+1. User Authentication and Access Control
+
+•
+Multi-level Authentication
+
+•
+Email/password authentication
+
+•
+Google email integration
+
+•
+Multi-factor authentication support
+
+
+
+•
+Role-based Access Control
+
+•
+Predefined roles for all OIR positions (Industrial Registrar, Deputy Registrar, Inspectors, etc.)
+
+•
+Granular permission management
+
+•
+Position-specific dashboards and workflows
+
+
+
+•
+User Session Management
+
+•
+Real-time user activity monitoring
+
+•
+Auto-logoff timer for inactive sessions
+
+•
+Session history and audit logging
+
+•
+User presence indicators showing online staff
+
+
+
+2. Dashboard and Analytics
+
+•
+Main Dashboard
+
+•
+Real-time statistics and key performance indicators
+
+•
+Trend analysis with percentage changes
+
+•
+Staff online status with presence indicators
+
+•
+Critical workflows with progress tracking
+
+
+
+•
+Union Analytics
+
+•
+Membership size visualization by union
+
+•
+Union growth/decline trends from 1963 to present
+
+•
+Economic sector distribution with interactive charts
+
+•
+Geographic distribution of unions across PNG
+
+
+
+•
+Compliance Analytics
+
+•
+Union compliance status tracking
+
+•
+Inspection reports and statistics
+
+•
+Notice To Show Cause tracking
+
+•
+Deadline monitoring and alerts
+
+
+
+•
+Election Analytics
+
+•
+Election status visualization (completed, pending, cancelled)
+
+•
+Nomination statistics
+
+•
+Voter turnout analysis
+
+•
+Election results tracking
+
+
+
+3. Industrial Organization (Union) Management
+
+•
+Union Registration
+
+•
+Standardized IO-XX format (IO-01, IO-02, etc.)
+
+•
+Complete registration workflow
+
+•
+Digital certificate generation
+
+•
+Registration history tracking
+
+
+
+•
+Union Profile Management
+
+•
+Comprehensive union details storage
+
+•
+Logo and branding management
+
+•
+Executive officer information with photos
+
+•
+General Secretary profile with term tracking
+
+
+
+•
+Membership Management
+
+•
+Membership list submission and vetting workflow
+
+•
+Multi-stage approval process (Initial Review → Registrar → Deputy Registrar → Final Approval)
+
+•
+Drag and drop file import with OCR capabilities
+
+•
+Validation and cross-checking against existing records
+
+•
+Change tracking (additions, removals, modifications)
+
+
+
+•
+Constitution Management
+
+•
+Rules and constitution storage
+
+•
+OCR-powered clause search functionality
+
+•
+Version control and amendment tracking
+
+•
+Compliance checking against legal requirements
+
+
+
+4. Document Management System
+
+•
+Structured File Storage
+
+•
+Union-specific directory structure following IO-XXX-Y format:
+
+•
+IO-142-0: General Matters
+
+•
+IO-142-1: Application For Registration
+
+•
+IO-142-2: Registration Certificate
+
+•
+IO-142-3: Rules and Constitution
+
+•
+IO-142-4: Financial Membership List
+
+•
+IO-142-5: Election of Office Bearers
+
+•
+IO-142-6: Secret Ballots
+
+•
+IO-142-7: Financial Returns
+
+•
+IO-142-9: Inspection Reports
+
+•
+IO-142-10: General Secretary Appointments
+
+•
+IO-142-11: Welfare Funds
+
+
+
+
+
+•
+Advanced Document Features
+
+•
+OCR-powered document search
+
+•
+Metadata extraction and indexing
+
+•
+Version control and history tracking
+
+•
+Drag and drop file management
+
+•
+Preview capabilities for common file formats
+
+
+
+•
+Legal Document Repository
+
+•
+Storage for all relevant legal frameworks
+
+•
+Law reviews and annotations
+
+•
+Searchable legal document database
+
+•
+Integration with union compliance checking
+
+
+
+5. Award and Determination Management
+
+•
+Award Categorization
+
+•
+Industrial Awards (A-XX format)
+
+•
+Arbitrated Awards
+
+•
+Consented Awards
+
+•
+Consolidated Awards
+
+
+
+•
+Determinations (D-XX format)
+
+•
+Minimum Wages Board Determinations
+
+•
+Public Service Conciliation & Arbitrated Act Determinations
+
+•
+Teaching Service Conciliation & Arbitrated Act Determinations
+
+
+
+
+
+•
+Award Registration and Tracking
+
+•
+Complete registration workflow
+
+•
+Expiration date monitoring
+
+•
+Amendment and variation tracking
+
+•
+Dispute resolution case linking
+
+
+
+•
+Award Analytics
+
+•
+Status tracking (active vs. expired)
+
+•
+Upcoming renewal alerts
+
+•
+Compliance monitoring
+
+•
+Dispute resolution statistics
+
+
+
+6. Election Management System
+
+•
+Election Scheduling and Planning
+
+•
+Election calendar with timeline visualization
+
+•
+Notification system for upcoming elections
+
+•
+Resource allocation planning
+
+•
+Compliance with statutory requirements
+
+
+
+•
+Nomination Management
+
+•
+Comprehensive nomination forms for all positions:
+
+•
+National Positions (President, VP, Treasurer, Women's Rep)
+
+•
+Regional Positions (Male/Female Reps for NGI, Momase, Southern, Highlands)
+
+•
+Provincial Positions (President, VP, Secretary/Treasurer)
+
+
+
+•
+Nominee validation against membership records
+
+•
+Multi-stage vetting workflow (OIR, Registrar, EC ARO)
+
+•
+Import functionality from spreadsheets/CSV files
+
+
+
+•
+Voter Eligibility Management
+
+•
+Membership verification against financial records
+
+•
+Quorum calculation and validation
+
+•
+Attendance tracking
+
+•
+Percentage-based eligibility determination
+
+
+
+•
+Election Results Management
+
+•
+Results capture and verification
+
+•
+Historical results tracking
+
+•
+Statistical analysis
+
+•
+Official declaration management
+
+
+
+7. Workflow and Correspondence Management
+
+•
+Workflow Tracking
+
+•
+Complete tracking of all office operations
+
+•
+Task assignment and notification system
+
+•
+Priority-based categorization (normal, high, critical)
+
+•
+Deadline monitoring and alerts
+
+
+
+•
+Correspondence Management
+
+•
+Incoming and outgoing correspondence tracking
+
+•
+Document routing and assignment
+
+•
+Response tracking and follow-up reminders
+
+•
+Template-based correspondence generation
+
+
+
+•
+Inspection Management
+
+•
+Inspection scheduling and planning
+
+•
+Checklist-based inspection process
+
+•
+Findings and recommendations tracking
+
+•
+Follow-up action monitoring
+
+
+
+•
+Meeting Management
+
+•
+Meeting scheduling and notification
+
+•
+Agenda management
+
+•
+Minutes recording and distribution
+
+•
+Action item tracking
+
+
+
+8. Fee Management System
+
+•
+Fee Structure
+
+•
+Comprehensive fee types based on the Industrial Organizations Act
+
+•
+Automatic fee calculation
+
+•
+Fee schedule management
+
+•
+Fee adjustment capabilities
+
+
+
+•
+Payment Processing
+
+•
+Receipt generation and management
+
+•
+Multiple payment method support
+
+•
+Payment reconciliation
+
+•
+Outstanding fee tracking
+
+
+
+•
+Financial Reporting
+
+•
+Fee collection reports
+
+•
+Revenue analysis
+
+•
+Outstanding payments tracking
+
+•
+Historical financial data analysis
+
+
+
+9. Notification and Alert System
+
+•
+Real-time Notifications
+
+•
+Priority-based notification system (high, medium, low)
+
+•
+User-specific notifications
+
+•
+Action-required indicators
+
+•
+Notification history
+
+
+
+•
+Automated Alerts
+
+•
+Deadline reminders
+
+•
+Compliance warnings
+
+•
+System maintenance notifications
+
+•
+Critical workflow alerts
+
+
+
+•
+Email Notifications
+
+•
+Configurable email notifications
+
+•
+Template-based email generation
+
+•
+Batch notification capabilities
+
+•
+Delivery tracking
+
+
+
+10. Reporting System
+
+•
+Standard Reports
+
+•
+Union statistics (active, inactive, deregistered)
+
+•
+Membership trends and analysis
+
+•
+Award and determination status
+
+•
+Compliance and inspection reports
+
+
+
+•
+Custom Report Builder
+
+•
+Flexible report parameter selection
+
+•
+Multiple output formats (PDF, Excel, CSV)
+
+•
+Scheduled report generation
+
+•
+Report sharing and distribution
+
+
+
+•
+Executive Dashboards
+
+•
+High-level summary reports
+
+•
+Trend analysis and forecasting
+
+•
+Performance indicators
+
+•
+Strategic planning support
+
+
+
+11. System Administration
+
+•
+User Management
+
+•
+User account creation and management
+
+•
+Role and permission assignment
+
+•
+Password policy enforcement
+
+•
+User activity monitoring
+
+
+
+•
+System Configuration
+
+•
+Global system settings
+
+•
+Module-specific configurations
+
+•
+Workflow rule management
+
+•
+Notification settings
+
+
+
+•
+Audit Logging
+
+•
+Comprehensive activity logging
+
+•
+Security event tracking
+
+•
+Data change history
+
+•
+Compliance reporting
+
+
+
+•
+Data Backup and Recovery
+
+•
+Automated backup scheduling
+
+•
+Version-controlled backups
+
+•
+Recovery testing
+
+•
+Data retention policy management
+
+
+
+12. Integration Capabilities
+
+•
+Future Integration Framework
+
+•
+API-based integration architecture
+
+•
+Data exchange protocols
+
+•
+Authentication and security measures
+
+•
+Integration monitoring and logging
+
+
+
+•
+Import/Export Capabilities
+
+•
+Bulk data import from legacy systems
+
+•
+Data export in standard formats
+
+•
+Template-based data exchange
+
+•
+Validation and error handling
+
+
+
+13. Mobile Responsiveness
+
+•
+Responsive Design
+
+•
+Optimized layouts for all device sizes
+
+•
+Touch-friendly interface elements
+
+•
+Consistent experience across devices
+
+•
+Offline capabilities for field operations
+
+
+
+14. Security Features
+
+•
+Data Protection
+
+•
+Role-based access control
+
+•
+Data encryption
+
+•
+Secure file storage
+
+•
+Privacy compliance
+
+
+
+•
+Audit and Compliance
+
+•
+Comprehensive audit trails
+
+•
+User action logging
+
+•
+Data access monitoring
+
+•
+Compliance reporting
+
+
+
